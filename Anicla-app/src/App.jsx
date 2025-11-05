@@ -5,10 +5,10 @@ import Titlebar from "./components/Titlebar";
 import "./App.css";
 import "./components/titlebar.css"
 import Sidebar from "./components/Sidebar";
-// import Loader from "./loader/Loader";
+import Loader from "./loader/Loader";
 import Home from "./tabs/home";
 // import History from "./tabs/history";
-// import Log from "./tabs/log";
+import Log from "./tabs/log";
 // import Settings from "./tabs/settings";
 
 function App() {
